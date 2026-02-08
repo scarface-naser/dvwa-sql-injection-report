@@ -21,6 +21,6 @@ environment as part of cybersecurity training and portfolio development.
 └──
  Screenshots/
 └──
- sql-injection-union-based.png
+ sql_injection.png
 
 
